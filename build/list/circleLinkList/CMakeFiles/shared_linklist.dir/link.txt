@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,liblinklist.so.1 -o ../../lib/liblinklist.so.1.0 CMakeFiles/shared_linklist.dir/linklist.cpp.o -L/home/work/ayu/vscode/build/lib 

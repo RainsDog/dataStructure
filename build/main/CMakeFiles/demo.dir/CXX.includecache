@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../list/circleLinkList/linklist.h
+
+/home/work/ayu/vscode/main/main.cpp
+iostream
+-
+linklist.h
+/home/work/ayu/vscode/main/linklist.h
+

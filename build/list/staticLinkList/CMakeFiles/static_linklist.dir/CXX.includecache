@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/work/ayu/vscode/list/staticLinkList/linklist.cpp
+iostream
+-
+stdlib.h
+-
+string.h
+-
+linklist.h
+/home/work/ayu/vscode/list/staticLinkList/linklist.h
+
+/home/work/ayu/vscode/list/staticLinkList/linklist.h
+

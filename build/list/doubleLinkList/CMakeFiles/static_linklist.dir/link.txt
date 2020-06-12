@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/liblinklist.a  CMakeFiles/static_linklist.dir/linklist.cpp.o
+/usr/bin/ranlib ../../lib/liblinklist.a

@@ -1,0 +1,3 @@
+/home/work/ayu/vscode/build/main/CMakeFiles/demo.dir
+/home/work/ayu/vscode/build/list/circleLinkList/CMakeFiles/shared_linklist.dir
+/home/work/ayu/vscode/build/list/circleLinkList/CMakeFiles/static_linklist.dir
